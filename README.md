@@ -1,6 +1,6 @@
 # Welcome to my GitHub.
 
-## 👋🏾 Hello
+## 👋🏿 Hello
 I'm Nelson, a young, curious and enthusiastic full stack web developer. What I like about coding is finding solutions and creating a lot of things.
 
 ## 📫 Connect with me:
